@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "RECOMB-P&E Conference"
-email: "hoon.cho@yale.edu"
+email: "recomb-privacy-equity@googlegroups.com"
 description: "RECOMB Satellite Conference on Biomedical Privacy and Equity"
 baseurl: ""
 url: "https://recomb-privacy-equity.github.io"
@@ -24,7 +24,7 @@ siteVerification: ""
 organizerName: "RECOMB-P&E"
 organizerAlternateName: "RECOMB-P&E"
 organizerDescription: "A research community tackling privacy and equity challenges in biomedical research"
-organizerEmail: "hoon.cho@yale.edu"
+organizerEmail: "recomb-privacy-equity@googlegroups.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://github.com/RECOMB-Privacy-Equity"
 
@@ -125,13 +125,13 @@ socialLinks:
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
-  links:
+  # title: "Links"
+  # links:
   # - {link: "https://recomb2022.net", text: "RECOMB 2022"}
  -
-  # title: "Contacts"
-  # links:
-  # - {link: "mailto:christinaboucher@ufl.edu", text: "christinaboucher@ufl.edu"}
+  title: "Contacts"
+  links:
+   - {link: "mailto:recomb-privacy-equity@googlegroups.com", text: "recomb-privacy-equity@googlegroups.com"}
  -
   title: "Policies"
   links:
