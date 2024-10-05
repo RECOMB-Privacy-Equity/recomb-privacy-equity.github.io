@@ -10,27 +10,27 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "RECOMB-seq Conference"
-email: "calkan@gmail.com"
-description: "RECOMB-seq is the RECOMB Satellite Conference on Biological Sequence Analysis"
+title: "RECOMB-P&E Conference"
+email: "hoon.cho@yale.edu"
+description: "RECOMB Satellite Conference on Biomedical Privacy and Equity"
 baseurl: ""
-url: "https://recomb-seq.github.io"
+url: "https://recomb-privacy-equity.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: "recomb-seq.github.io"
+googleAnalyticsSiteUrl: "recomb-privacy-equity.github.io"
 siteVerification: ""
 
 # Organizer Info
-organizerName: "RECOMB-seq"
-organizerAlternateName: "RECOMB-seq"
-organizerDescription: "Algorithm development for analyzing sequence data"
-organizerEmail: "calkan@gmail.com"
+organizerName: "RECOMB-P&E"
+organizerAlternateName: "RECOMB-P&E"
+organizerDescription: "A research community tackling privacy and equity challenges in biomedical research"
+organizerEmail: "hoon.cho@yale.edu"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://www.alkanlab.org"
+organizerLink: "https://github.com/RECOMB-Privacy-Equity"
 
 # Head
-metaKeywords: "recomb, algorithm, sequence"
-twitterAccount: "@recombseq"
+metaKeywords: "recomb, privacy, equity"
+# twitterAccount: "@recombseq"
 # socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -42,7 +42,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/speakers/", text: "Keynote Speakers"}
  - {permalink: "/program/", text: "Program"}
- - {permalink: "/history/", text: "History of RECOMB SEQ"}
+# - {permalink: "/history/", text: "History of RECOMB SEQ"}
 bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
 rightNavigationButtons:
@@ -50,8 +50,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "RECOMB-SEQ 2025"
-heroSubTitle: "The 15th RECOMB Satellite Conference on Biological Sequence Analysis"
+heroTitle: "RECOMB-P&E 2025"
+heroSubTitle: "The 2nd RECOMB Satellite Conference on Biomedical Privacy and Equity"
 eventDate: "April 24-25, 2025"
 eventLocation: "Seoul, South Korea"
 #typeoutTextValues: '"2023"'
@@ -61,7 +61,7 @@ heroButtons:
  #- {permalink: "/#tickets", text: "Attend RECOMB SEQ 2023"}
 
 # About Block
-aboutTitle: "About RECOMB SEQ"
+aboutTitle: "About RECOMB P&E"
 # aboutBlock:
 # - {title: "RECOMB-SEQ", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 # - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -112,16 +112,16 @@ venueFeatures: [""]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "recombseq"
-twitterFeed: " https://twitter.com/recombseq"
+twitterHashTag: "RECOMBPrivacyEquity"
+#twitterFeed: " https://twitter.com/recombseq"
 
 
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/recombseq", icon: "twitter"}
+# - {link: "https://twitter.com/recombseq", icon: "twitter"}
 # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {link: "https://www.youtube.com/@recomb-seq", icon: "youtube"}
+# - {link: "https://www.youtube.com/@recomb-seq", icon: "youtube"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
