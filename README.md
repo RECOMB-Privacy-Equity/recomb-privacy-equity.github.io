@@ -1,7 +1,9 @@
-# RECOMB-SEQ Website Template
+# RECOMB-P&E Website Repository
 
 ### About
-This project is the website template and content used for RECOMB-SEQ, see the live website at https://recomb-seq.github.io. 
+This project includes the website content for RECOMB Privacy & Equity (P&E). It is based on the template from [RECOMB-SEQ](https://github.com/recomb-seq/recomb-seq.github.io).
+
+Our live website is available at: https://recomb-privacy-equity.github.io/
 
 #### The main files to edit
 
