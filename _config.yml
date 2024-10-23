@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -49,7 +49,7 @@ rightNavigationButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Submit a paper"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "dna-dark.jpg"
 heroTitle: "RECOMB-P&E 2025"
 heroSubTitle: "The 2nd RECOMB Satellite Conference on Biomedical Privacy and Equity"
 eventDate: "April 24-25, 2025"
