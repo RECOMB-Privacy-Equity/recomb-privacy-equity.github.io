@@ -2,7 +2,7 @@
   id: 0
   name: "Can"
   surname: "Alkan"
-  title: "Steering Committee Member"
+  title: "" #Steering Committee Member"
   thumbnailUrl: CanAlkan.jpg
   team: true
   ribbon: 
@@ -15,7 +15,7 @@
   id: 1
   name: "Christina"
   surname: "Boucher"
-  title: "Steering Committee Member"
+  title: "" #Steering Committee Member"
   thumbnailUrl: ChristinaBoucher.jpg
   team: true
   ribbon: 
@@ -27,7 +27,7 @@
   id: 2
   name: "Paul"
   surname: "Medvedev"
-  title: "Steering Committee Member"
+  title: "" #Steering Committee Member"
   thumbnailUrl: PaulMedvedev.jpg
   team: true
   ribbon: 
@@ -40,7 +40,7 @@
   id: 3
   name: "Nadia"
   surname: "Pisanti"
-  title: "Steering Committee Member"
+  title: "" 
   thumbnailUrl: NadiaPisanti.jpg
   team: true
   ribbon: 
@@ -52,7 +52,7 @@
   id: 4
   name: "Alex"
   surname: "Schönhuth"
-  title: "Steering Committee Member"
+  title: "" 
   thumbnailUrl: AlexSchonhuth.jpg
   team: true
   ribbon: 
@@ -61,24 +61,24 @@
     - {name: "site", link: "https://homepages.cwi.nl/~as/"}
 - 
   id: 5
-  name: "Camille"
-  surname: "Marchet"
+  name: "Hoon"
+  surname: "Cho"
   title: "Program Committee Chair"
-  thumbnailUrl: CamilleMarchet.jpg
+  thumbnailUrl: HoonCho.jpg
   subTeam: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/CamilleMrcht"}
-    - {name: "github", link: "https://github.com/kamimrcht"}
-    - {name: "site", link: "https://kamimrcht.github.io/webpage/"}
+    # - {name: "twitter", link: "https://twitter.com/CamilleMrcht"}
+    # - {name: "github", link: "https://github.com/kamimrcht"}
+    - {name: "site", link: "https://hhcho.com"}
 - 
   id: 6
-  name: "Yaron"
-  surname: "Orenstein"
+  name: "Shalmali"
+  surname: "Joshi"
   title: "Program Committee Chair"
-  thumbnailUrl: YaronOrenstein.jpg
+  thumbnailUrl: ShalmaliJoshi.jpg
   subTeam: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/OrensteinYaron"}
-    - {name: "github", link: "https://github.com/OrensteinLab"}
-    - {name: "site", link: "https://yorenstein.wixsite.com/orensteinlab"}
+    # - {name: "twitter", link: "https://twitter.com/OrensteinYaron"}
+    # - {name: "github", link: "https://github.com/OrensteinLab"}
+    - {name: "site", link: "https://shalmalijoshi.github.io/reAIM/"}
 
