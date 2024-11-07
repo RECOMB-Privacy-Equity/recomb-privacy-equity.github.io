@@ -1,66 +1,77 @@
 - 
   id: 0
-  name: "Can"
-  surname: "Alkan"
-  title: "" #Steering Committee Member"
-  thumbnailUrl: CanAlkan.jpg
+  name: "Bonnie"
+  surname: "Berger"
+  title: "Steering Committee Member"
+  thumbnailUrl: BonnieBerger.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/calkan_cs"}
-    - {name: "github", link: "https://github.com/calkan"}
-    - {name: "site", link: "http://alkanlab.org/"}
+    # - {name: "twitter", link: "https://twitter.com/calkan_cs"}
+    # - {name: "github", link: "https://github.com/calkan"}
+    - {name: "site", link: "https://people.csail.mit.edu/bab/"}
 - 
   id: 1
-  name: "Christina"
-  surname: "Boucher"
-  title: "" #Steering Committee Member"
-  thumbnailUrl: ChristinaBoucher.jpg
+  name: "Cenk"
+  surname: "Sahinalp"
+  title: "Steering Committee Member"
+  thumbnailUrl: CenkSahinalp.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "github", link: "https://github.com/boucherufl"}
-    - {name: "site", link: "https://www.christinaboucher.com/"}
+    # - {name: "github", link: "https://github.com/boucherufl"}
+    - {name: "site", link: "https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp"}
 - 
   id: 2
-  name: "Paul"
-  surname: "Medvedev"
-  title: "" #Steering Committee Member"
-  thumbnailUrl: PaulMedvedev.jpg
+  name: "Haixu"
+  surname: "Tang"
+  title: "Steering Committee Member"
+  thumbnailUrl: HaixuTang.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/pashadag"}
-    - {name: "github", link: "https://github.com/pashadag"}
-    - {name: "site", link: "https://medvedevgroup.com/"}
+    # - {name: "twitter", link: "https://twitter.com/pashadag"}
+    # - {name: "github", link: "https://github.com/pashadag"}
+    - {name: "site", link: "https://luddy.indiana.edu/contact/profile/?Haixu_Tang"}
 - 
   id: 3
-  name: "Nadia"
-  surname: "Pisanti"
-  title: "" 
-  thumbnailUrl: NadiaPisanti.jpg
+  name: "Gamze"
+  surname: "Gursoy"
+  title: "Steering Committee Member"
+  thumbnailUrl: GamzeGursoy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "site", link: "https://pages.di.unipi.it/pisanti/"}
+    - {name: "site", link: "https://www.nygenome.org/people/gamze-gursoy-phd/"}
 
 - 
   id: 4
-  name: "Alex"
-  surname: "Schönhuth"
-  title: "" 
-  thumbnailUrl: AlexSchonhuth.jpg
+  name: "A. Ercument"
+  surname: "Cicek"
+  title: "Steering Committee Member"
+  thumbnailUrl: ErcumentCicek.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "site", link: "https://homepages.cwi.nl/~as/"}
+    - {name: "site", link: "http://ciceklab.cs.bilkent.edu.tr/"}
 - 
   id: 5
+  name: "Mona"
+  surname: "Singh"
+  title: "Steering Committee Member"
+  thumbnailUrl: MonaSingh.jpg
+  subTeam: true
+  social: 
+    # - {name: "twitter", link: "https://twitter.com/CamilleMrcht"}
+    # - {name: "github", link: "https://github.com/kamimrcht"}
+    - {name: "site", link: "https://www.cs.princeton.edu/people/profile/mona"}
+- 
+  id: 6
   name: "Hoon"
   surname: "Cho"
   title: "Program Committee Chair"
@@ -71,7 +82,7 @@
     # - {name: "github", link: "https://github.com/kamimrcht"}
     - {name: "site", link: "https://hhcho.com"}
 - 
-  id: 6
+  id: 7
   name: "Shalmali"
   surname: "Joshi"
   title: "Program Committee Chair"
