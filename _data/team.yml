@@ -65,7 +65,9 @@
   surname: "Singh"
   title: "Steering Committee Member"
   thumbnailUrl: MonaSingh.png
-  subTeam: true
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     # - {name: "twitter", link: "https://twitter.com/CamilleMrcht"}
     # - {name: "github", link: "https://github.com/kamimrcht"}
