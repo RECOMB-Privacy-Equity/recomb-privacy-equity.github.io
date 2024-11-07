@@ -3,7 +3,7 @@
   name: "Bonnie"
   surname: "Berger"
   title: "Steering Committee Member"
-  thumbnailUrl: BonnieBerger.jpg
+  thumbnailUrl: BonnieBerger.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -16,7 +16,7 @@
   name: "Cenk"
   surname: "Sahinalp"
   title: "Steering Committee Member"
-  thumbnailUrl: CenkSahinalp.jpg
+  thumbnailUrl: CenkSahinalp.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -28,7 +28,7 @@
   name: "Haixu"
   surname: "Tang"
   title: "Steering Committee Member"
-  thumbnailUrl: HaixuTang.jpg
+  thumbnailUrl: HaixuTang.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -41,7 +41,7 @@
   name: "Gamze"
   surname: "Gursoy"
   title: "Steering Committee Member"
-  thumbnailUrl: GamzeGursoy.jpg
+  thumbnailUrl: GamzeGursoy.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -53,7 +53,7 @@
   name: "A. Ercument"
   surname: "Cicek"
   title: "Steering Committee Member"
-  thumbnailUrl: ErcumentCicek.jpg
+  thumbnailUrl: ErcumentCicek.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -64,7 +64,7 @@
   name: "Mona"
   surname: "Singh"
   title: "Steering Committee Member"
-  thumbnailUrl: MonaSingh.jpg
+  thumbnailUrl: MonaSingh.png
   subTeam: true
   social: 
     # - {name: "twitter", link: "https://twitter.com/CamilleMrcht"}
