@@ -38,7 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/papers/", text: "Call for Contributions"}
+ - {permalink: "/papers/", text: "Call for Papers"}
  - {permalink: "/team/", text: "Committees"}
  - {permalink: "/speakers/", text: "Keynote Speakers"}
  - {permalink: "/program/", text: "Program"}
@@ -52,7 +52,7 @@ rightNavigationButtons:
 heroImage: "dna-dark.jpg"
 heroTitle: "RECOMB-P&E 2025"
 heroSubTitle: "The 2nd RECOMB Satellite Conference on Biomedical Privacy and Equity"
-eventDate: "April 25, 2025"
+eventDate: "April 24-25, 2025"
 eventLocation: "Seoul, South Korea"
 #typeoutTextValues: '"2023"'
 #typeoutFallback: "2023"
@@ -119,12 +119,12 @@ twitterHashTag: "RECOMBPrivacyEquity"
 
 # Footer
 socialLinks:
+ #- {permalink: "/feed.xml", icon: "rss"}
 # - {link: "https://twitter.com/recombseq", icon: "twitter"}
 # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
 # - {link: "https://www.youtube.com/@recomb-seq", icon: "youtube"}
- - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
- -
+  # -
   # title: "Links"
   # links:
   # - {link: "https://recomb2022.net", text: "RECOMB 2022"}
