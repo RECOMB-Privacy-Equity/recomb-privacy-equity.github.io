@@ -12,20 +12,21 @@ isStaticPost: true
 #### Topics
 ---
 Topics of interest include, but are not limited to:
-* **Privacy Risk Analysis**: Examining privacy risks (e.g., re-identification) associated with high-throughput molecular or clinical data.
-* **Balancing Privacy and Utility**: Creating frameworks that balance the need to safeguard privacy with the goal of enabling scientific progress.
-* **Secure Computation**: Developing algorithms for analyzing sensitive biomedical data while preserving privacy, using cryptographic, statistical, or other related techniques.
-* **Genomic Data Privacy**: Investigating the privacy implications of advancements in DNA sequencing and the growing availability of genomic information.
-* **Private Data Release**: Designing strategies for releasing private datasets while minimizing risks to individuals.
-* **Bias Identification**: Analyzing various forms of inequities present in genomic and health-related data and models.
-* **Algorithmic Fairness**: Developing methods to reduce bias and promote fairness and equity in biological AI.
+* **Privacy attacks and risk analysis**: Examining privacy risks (e.g., re-identification) associated with biological or other health-related data, such as genomes, molecular profiles, and clinical data.
+* **Frameworks for balancing privacy and utility**: Designing frameworks that balance the need to safeguard privacy with the goal of enabling scientific progress.
+* **Secure computation**: Methods for analyzing sensitive biomedical data while preserving privacy via cryptography or other related techniques.
+* **Privacy-preserving data release**: Methods for releasing private datasets while minimizing risks to individuals.
+* **Trustworthy system design**: Techniques for enhancing trust in secure and equitable biomedical data ecosystems (e.g., verifiable computation).
+* **Incentive mechanisms**: Frameworks for aligning the interests of various stakeholders in biomedicine to promote secure and equitable data sharing.
+* **Bias identification in high-dimensional data**: Analyzing various forms of inequities present in genomic and health-related data and models.
+* **Algorithmic fairness and bias mitigation methods**: Developing methods to reduce bias and promote fairness and equity in biological AI.
 
 ---
 #### Key Dates
 ---
 
 Proceedings and Overlay Tracks:
-* Submission deadline: February 5th, 2025 23:59 AoE
+* Submission deadline: ~~February 5th~~ **February 10th**, 2025 23:59 AoE
 * Author notification: February 25th, 2025
  
 Highlights / Short Talks / Posters:
