@@ -1,57 +1,57 @@
-# -
-#   id: pc1
-#   name: "Jarno"
-#   surname: "Alanko"
-#   company: "University of Helsinki"
-# 
-# -
-#   id: pc2
-#   name: "Can "
-#   surname: "Alkan"
-#   company: "Bilkent University"
-# 
-# -
-#   id: pc3
-#   name: "Anton"
-#   surname: "Bankevich"
-#   company: "The Pennsylvania State University"
-# 
-# -
-#   id: pc4
-#   name: "Vikas"
-#   surname: "Bansal"
-#   company: "University of California San Diego"
-# 
-# -
-#   id: pc5
-#   name: "Christina"
-#   surname: "Boucher"
-#   company: "University of Florida"
-# 
-# -
-#   id: pc6
-#   name: "Brona"
-#   surname: "Brejova"
-#   company: "Comenius University Bratislava"
-# 
-# -
-#   id: pc7
-#   name: "Stefan"
-#   surname: "Canzar"
-#   company: "The Pennsylvania State University"
-# 
-# -
-#   id: pc8
-#   name: "Ke"
-#   surname: "Chen"
-#   company: "The Pennsylvania State University"
-# 
-# -
-#   id: pc9
-#   name: "Rayan"
-#   surname: "Chikhi"
-#   company: "Institut Pasteur & CNRS"
-# 
+-
+  id: pc1
+  name: "Bradley"
+  surname: "Malin"
+  company: "Vanderbilt University"
+
+-
+  id: pc2
+  name: "Gamze"
+  surname: "Gursoy"
+  company: "Columbia University"
+
+-
+  id: pc3
+  name: "Tsung-Ting"
+  surname: "Kuo"
+  company: "Yale University"
+
+-
+  id: pc4
+  name: "Xiaoqian"
+  surname: "Jiang"
+  company: "University of Texas Health Science Center (UTHealth) at Houston"
+
+-
+  id: pc5
+  name: "Erman"
+  surname: "Ayday"
+  company: "Case Western Reserve University"
+
+-
+  id: pc6
+  name: "Arif"
+  surname: "Harmanci"
+  company: "University of Texas Health Science Center (UTHealth) at Houston"
+
+-
+  id: pc7
+  name: "A. Ercument"
+  surname: "Cicek"
+  company: "Bilkent University"
+
+-
+  id: pc8
+  name: "Sinem"
+  surname: "Sav"
+  company: "Bilkent University"
+
+-
+  id: pc9
+  name: "Cenk"
+  surname: "Sahinalp"
+  company: "National Cancer Institute"
+
 # -
 #   id: pc10
 #   name: "A. Ercument"
