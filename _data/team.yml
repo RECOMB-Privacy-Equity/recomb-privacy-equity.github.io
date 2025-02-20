@@ -11,18 +11,18 @@
     # - {name: "twitter", link: "https://twitter.com/calkan_cs"}
     # - {name: "github", link: "https://github.com/calkan"}
     - {name: "site", link: "https://people.csail.mit.edu/bab/"}
-- 
-  id: 1
-  name: "Cenk"
-  surname: "Sahinalp"
-  title: "Steering Committee Member"
-  thumbnailUrl: CenkSahinalp.png
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    # - {name: "github", link: "https://github.com/boucherufl"}
-    - {name: "site", link: "https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp"}
+#- 
+  #id: 1
+  #name: "Cenk"
+  #surname: "Sahinalp"
+  #title: "Steering Committee Member"
+  #thumbnailUrl: CenkSahinalp.png
+  #team: true
+  #ribbon: 
+    #- {abbr: "GDG", title: "Google Developer Group"}
+  #social: 
+    ## - {name: "github", link: "https://github.com/boucherufl"}
+    #- {name: "site", link: "https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp"}
 - 
   id: 2
   name: "Haixu"

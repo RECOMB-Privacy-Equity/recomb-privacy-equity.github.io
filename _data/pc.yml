@@ -46,11 +46,11 @@
   surname: "Sav"
   company: "Bilkent University"
 
--
-  id: pc9
-  name: "Cenk"
-  surname: "Sahinalp"
-  company: "National Cancer Institute"
+#-
+  #id: pc9
+  #name: "Cenk"
+  #surname: "Sahinalp"
+  #company: "National Cancer Institute"
 
 # -
 #   id: pc10
