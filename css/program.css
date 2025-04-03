@@ -1,0 +1,424 @@
+/*=================================================================
+  Program section
+==================================================================*/
+
+.program {
+  background: #fff;
+}
+
+.program .speaker {
+  color: #fff;
+  background-color: transparent;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+}
+
+.program .speaker-title {
+  color: #282555;
+  background-color: transparent;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+}
+
+.program .time {
+  color: #282555;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 0px;
+  padding-top: 3px;
+  border-bottom: 2px inset;
+  text-align: right;
+}
+
+.program .activity {
+  background-color: #fff;
+  color: #282555;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  text-align: center;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  border-top: 2px groove;
+  border-bottom: 2px groove;
+  border-color: #282555;
+}
+
+.program .keynote {
+  background-color: #28559A;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height:28px;
+  padding-right:0px;
+  padding-left:0px;
+  padding-bottom:3px;
+  padding-top:3px;
+  text-align: center;
+}
+
+.program .btn-keynote {
+  background-color: #28559A;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  text-align: center;
+  border: 2px outset;
+  width: 100%;
+}
+
+.program .btn-keynote:active{
+  background-color: #28559A;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .btn-keynote:focus{
+  background-color: #28559A;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .btn-keynote:hover{
+  background-color: #fff;
+  color: #28559A;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .btn-poster {
+  background-color: #ea5455;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  text-align: center;
+  border: 2px outset;
+  width: 100%;
+}
+
+.program .btn-poster:active{
+  background-color: #ea5455;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .btn-poster:focus{
+  background-color: #ea5455;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .btn-poster:hover{
+  background-color: #fff;
+  color: #ea5455;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .keynote-speaker {
+  background-color: #fff;
+  color: #282555;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height:28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border-bottom-color: #f6f6f6;
+  border-bottom: 2px dotted;
+}
+
+.program .selected {
+  background-color: #3778C2;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .btn {
+  background-color: #3778C2;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  text-align: center;
+  border: 2px outset;
+  width: 100%;
+}
+
+.program .btn:active{
+  background-color: #3778C2;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .btn:focus{
+  background-color: #3778C2;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .btn:hover{
+  background-color: #fff;
+  color: #3778C2;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .text {
+  color: #282555;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  height: 100%;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: justify;
+}
+
+.program .invited {
+  text-align: justify;
+  background-color: #4B9FE1;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height:28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 1px;
+  padding-top: 3px;
+  border: 2px outset;
+}
+
+.program .btn-invited {
+  background-color: #4B9FE1;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  text-align: center;
+  border: 2px outset;
+  width: 100%;
+}
+
+.program .btn-invited:active{
+  background-color: #4B9FE1;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .btn-invited:focus{
+  background-color: #4B9FE1;
+  color: #fff;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .btn-invited:hover{
+  background-color: #fff;
+  color: #4B9FE1;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
+
+.program .invited-speaker {
+  text-align: justify;
+  background-color: #fff;
+  color: #282555;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: justify;
+  height:28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 1px;
+  padding-top:0px;
+  border-bottom: 2px dotted;
+}
+
+.program .break {
+  background-color: #fff;
+  color: #63BCE5;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height:28px;
+  padding-right:0px;
+  padding-left:0px;
+  padding-bottom:3px;
+  padding-top:3px;
+  border: 2px outset;
+}
+
+.program .poster {
+  background-color: #fff;
+  color: #4B9FE1;
+  font-family: "Merriweather" sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  height: 28px;
+  padding-right: 0px;
+  padding-left: 1px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  text-align: center;
+  border: 2px outset;
+}
