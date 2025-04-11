@@ -5,7 +5,7 @@
   company: "Hanyang University"
   thumbnailUrl: MiranKim.jpg
   #title: "TBA"
-  # abstract: "<p>TBA</p>"
+  abstract: "<b>Homomorphic Encryption for Protecting Genomic Privacy</b><br><p>Abstract: TBA</p>"
   # bio: "Shilpa is a Senior Researcher/Associate Professor at the Technical University of Denmark. She was an NIH K99/R00 PI at Harvard Medical School and finished her Ph.D. in Computer Science at Max Planck Institute for Informatics. She is passionate to apply the power of computers for biological applications in human health and bio-based chemical production. She has published in prestigious journals like Bioinformatics, Nature Communications, and Nature Biotechnology."
   social: 
     - {name: "site", link: "https://k-miran.github.io"}
@@ -16,9 +16,9 @@
   surname: "Choi"
   company: "KAIST"
   thumbnailUrl: EdwardChoi.jpg
-    #title: "TBA"
-    #abstract: "<p>TBA</p>"
-    #bio: "Prof. La Manno is a computational and developmental biologist heading the Neurodevelopmental Systems Biology Laboratory at the Swiss Federal Institute of Technology Lausanne (EPFL). He has made significant early contributions in the field single-cell RNA sequencing, particularly in mapping the heterogeneity of the developing mammalian nervous system. Prof. La Manno is renowned for inventing the RNA Velocity analysis framework and developing spatial transcriptomics tomographical methods. His lab has also been at the forefront of research into lipid heterogeneity at the single-cell level. Throughout his career, he has earned numerous recognitions, such as the appointment to ELISIR Scholar, the EMPIRIS Award, the SIB Innovation Award, and the Dimitris N. Chorafas Prize."
+  title: "Associate Professor"
+  abstract: "<b>Training AI by Medical Data & Using AI on Medical Data: Privacy and Data-Quality</b><br><p>Recent AI research and development is mostly data-driven science, which is based on an increasingly more circular relationship between models and data; good data lets us train good models, and good models let us construct good data. This relationship is also true in medical AI, which has two (among many) added challenges specific to the medical domain: privacy and data quality. In this talk, I will first talk about training a clinical-domain LLM with synthetic clinical text so as to minimize privacy risk. Next, I will talk about how to use LLMs to evaluate medical data, specifically structured data and unstructured text, to detect potential inconsistencies between the two modalities.</p>"
+  bio: "Edward Choi is an associate professor of Kim Jaechul Graduate School of AI, KAIST. He received his PhD in Georgia Tech, under the supervision of Prof. Jimeng Sun, focusing on interpretable deep learning methods for electronic health records. Prior to joining KAIST, he worked on developing and analyzing medical prediction models at Google Brain and Google Health. His current research interests include question answering for multi-modal medical records, domain-specific reasoning LLMs, and medical data synthesis."
   social: 
     - {name: "site", link: "https://mp2893.com"}
       #- {name: "twitter", link: "https://twitter.com/ProfMonaSingh"}

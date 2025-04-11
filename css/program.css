@@ -422,3 +422,29 @@
   text-align: center;
   border: 2px outset;
 }
+
+.btn-abstract {
+
+  background: #fff;
+  border: 1px solid #D82933;
+  color: #D82933;
+  display: inline-block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  padding: 1px 5px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.btn-abstract:hover,focus, active {
+
+  background: #D82933;
+  border: 1px solid #D82933;
+  color: #fff;
+  display: inline-block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  padding: 1px 5px;
+  border-radius: 10px;
+  text-align: center;
+}
