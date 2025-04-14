@@ -424,7 +424,6 @@
 }
 
 .btn-abstract {
-
   background: #fff;
   border: 1px solid #D82933;
   color: #D82933;
@@ -434,6 +433,7 @@
   padding: 1px 5px;
   border-radius: 20px;
   text-align: center;
+  float: left;
 }
 
 .btn-abstract:hover,focus, active {

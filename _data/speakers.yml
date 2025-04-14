@@ -4,9 +4,9 @@
   surname: "Kim"
   company: "Hanyang University"
   thumbnailUrl: MiranKim.jpg
-  #title: "TBA"
-  abstract: "<b>Homomorphic Encryption for Protecting Genomic Privacy</b><br><p>Abstract: TBA</p>"
-  # bio: "Shilpa is a Senior Researcher/Associate Professor at the Technical University of Denmark. She was an NIH K99/R00 PI at Harvard Medical School and finished her Ph.D. in Computer Science at Max Planck Institute for Informatics. She is passionate to apply the power of computers for biological applications in human health and bio-based chemical production. She has published in prestigious journals like Bioinformatics, Nature Communications, and Nature Biotechnology."
+  title: "Associate Professor"
+  abstract: "<b>Homomorphic Encryption for Protecting Genomic Privacy</b><br><p>Homomorphic encryption is an encryption method to enable arbitrary computation on encrypted data without decryption. It has emerged as one of the promising solutions to address privacy issues in computation over sensitive data.  In this talk, I will introduce the basic construction of homomorphic encryption. We then focus on the recent development of homomorphic encryption. I will conclude with the state-of-art benchmarks of privacy preserving genomic analysis.</p>"
+  bio: "Miran Kim is an associate professor of the Department of Mathematics and affiliated with the Department of Computer Science at Hanyang University. Before joining Hanyang University, she was an assistant professor at the Department of Computer Science and Engineering and Graduate School of Artificial Intelligence at Ulsan National Institute of Science and Technology (UNIST). Her research focuses on developing novel strategies for secure and privacy-preserving data analysis using homomorphic encryption. She has extensive experience in implementing efficient cryptographic protocols for data query processing, genomic analysis, and machine learning."
   social: 
     - {name: "site", link: "https://k-miran.github.io"}
       #- {name: "twitter", link: "https://twitter.com/lh3lh3"}
